@@ -4,7 +4,6 @@
 📈 Self-taught trader with over 7 years of experience in risk management, strategy development, and market analysis.  
 🧠 Trained in Data Science and Programming at **4Geeks Academy**.  
 💻 Passionate about data-driven decision making, quantitative modeling, and algorithmic thinking.  
-🎯 Currently working on a personal trading challenge: growing $10 into $1000 through disciplined micro-growth.
 
 ### 🛠️ Skills & Tools
 - Python (Pandas, Numpy, Matplotlib, Scikit-learn)
