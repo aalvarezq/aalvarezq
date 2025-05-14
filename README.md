@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm [Your Name]
+## 👋 Hi there! I'm Aldo Álvarez
 
 📚 Background in Business and Finance.  
 📈 Self-taught trader with over 7 years of experience in risk management, strategy development, and market analysis.  
